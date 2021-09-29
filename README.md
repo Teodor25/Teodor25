@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
+  
+I'm a Fullstack developer and a Computer Science student, currently based in Denmark.
 
-<!--
-**Teodor25/Teodor25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Wondering how to reach me? **Teodor25#6516 @Discord**
 
-Here are some ideas to get you started:
+## Want to check out my projects? I suggest looking at these:
+- [Commercial webstore with a full CI pipeline](https://github.com/Kwandes/treecreate)
+- [A Web App made in Java Springboot. Bonus points - developed with 3 other people](https://github.com/Kwandes/motorhome)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+----
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Teodor25&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My github stats&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor25&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</a>
