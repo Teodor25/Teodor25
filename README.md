@@ -6,7 +6,9 @@ I'm a Fullstack developer and a Computer Science student, currently based in Den
 
 ## Want to check out my projects? I suggest looking at these:
 - [Commercial webstore with a full CI pipeline](https://github.com/Kwandes/treecreate)
+- [V1 of the Webshop for my company Treecreate - built in 3rd semester](https://github.com/Kwandes/treecreate)
 - [A Web App made in Java Springboot. Bonus points - developed with 3 other people](https://github.com/Kwandes/motorhome)
+- [A user management system with a api in java spring and a frontend in react - 3rd semester exam](https://github.com/Teodor25/3rd_semester_24h_exam)
 
 
 ----
