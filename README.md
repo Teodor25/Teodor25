@@ -5,7 +5,8 @@ I'm a Fullstack developer and a Computer Science student, currently based in Den
 📫 Wondering how to reach me? **Teodor25#6516 @Discord**
 
 ## Want to check out my projects? I suggest looking at these:
-- [Commercial webstore with a full CI pipeline](https://github.com/Kwandes/treecreate)
+- [V2 webshop for Treecreate built in angular and java spring boot](https://github.com/treecreate/webstore)
+  - hosted: [Treecreate.dk](treecreate.dk)
 - [V1 of the Webshop for my company Treecreate - developed with 3 others on 3rd semester project](https://github.com/Kwandes/treecreate)
 - [A user management system with a api in java spring and a frontend in react - 3rd semester exam](https://github.com/Teodor25/3rd_semester_24h_exam)
 - [A Web App made in Java Springboot - developed with 3 others on 2nd semester](https://github.com/Kwandes/motorhome)
