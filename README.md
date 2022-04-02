@@ -2,7 +2,9 @@
   
 I'm a Fullstack developer and a Computer Science student, currently based in Denmark.
 
-📫 Wondering how to reach me? **Teodor25#6516 @Discord**
+📫 Wondering how to reach me? 
+  **Teodor25#6516 @Discord**
+  **[Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)**
 
 ## Want to check out my projects? I suggest looking at these:
 - [V2 webshop for Treecreate built in angular and java spring boot](https://github.com/treecreate/webstore)
