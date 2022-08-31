@@ -17,3 +17,6 @@ Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)
 ----
 [![Teodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teodor25)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor25&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</a>
