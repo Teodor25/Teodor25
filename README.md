@@ -1,6 +1,12 @@
 <h1> Hello, my name is Teodor Jonasson </h1>
 
-<code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" style="height: 350px" /></code>
+<code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" style="height: 350px"></code>
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 Bachelor in Software development, mainly focussed on frontend, currently based in Denmark.
 
