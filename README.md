@@ -35,11 +35,11 @@ Phone: [+45 26192327](tel:+4526192327)<br>
 
 ----
 
-<div style="width: 100%">
+<div style="width: 100%; vertical-alignment: top;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 58%; height: 250px" src="https://github-readme-stats.vercel.app/api?username=Teodor25&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=My%20github%20stats" />
+  <img style="width: 58%;" src="https://github-readme-stats.vercel.app/api?username=Teodor25&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=My%20github%20stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 40%; height: 250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor25&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+    <img style="width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor25&layout=compact&theme=radical&langs_count=8&hide_border=true" />
   </a>
 </div>
