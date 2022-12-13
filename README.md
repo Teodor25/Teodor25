@@ -2,7 +2,7 @@
 
 <code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" style="height: 350px" /></code>
 
-I'm a Fullstack developer with a Bachelor in Software development, currently based in Denmark.
+Bachelor in Software development, mainly focussed on frontend, currently based in Denmark.
 
 Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.
 Founder of [Omnihost](https://dev.omnihost.app), a hotel management system.
