@@ -24,7 +24,6 @@ Phone: [+45 26192327](tel:+4526192327)<br>
 ## Want to check out my projects? I suggest looking at these:
 - [HMS (Hotel management system) prototype for D'angleterre](https://github.com/Frederik-Vagner/hems)
   - [Figma prototype that I made](https://www.figma.com/file/ORG7b1bjvNsPuL521Ew0Dp/HEMS-V1?node-id=66%3A3892&t=dhsnall36PZyWfEX-0)
-  - V1 coming soon (1 feb)
 - [CRM (customer relationship management) system for Treecreate](https://www.figma.com/file/79qPS3XvFUD7SE7LDthpz9/tc-admin-page?node-id=0%3A1)
   - hosted: [admin.treecreate.dk](https://admin.treecreate.dk/login)
   - Since it's only for employees you can only have a look at the design in figma. 
