@@ -20,7 +20,6 @@ Developer at [Penneo A/S](https://penneo.com/), a digital signature Saas company
 Discord: Teodor25#6516<br>
 Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)<br>
 Phone: [+45 26192327](tel:+4526192327)<br>
-<a href="tel:+4526192327" target="_blank"> +45 26192327 </a>
 
 ## Want to check out my projects? I suggest looking at these:
 - [HMS (Hotel management system) prototype for D'angleterre](https://github.com/Frederik-Vagner/hems)
