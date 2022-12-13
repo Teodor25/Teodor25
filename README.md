@@ -1,14 +1,14 @@
-<code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" /></code>
+<code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" style="height: 100px" /></code>
 
 I'm a Fullstack developer with a Bachelor in Software development, currently based in Denmark.
 
-Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.<br>
-Founder of [Omnihost](https://dev.omnihost.app), a hotel management system.<br>
-Developer at [Penneo A/S](https://penneo.com/), an online signature Saas company based in Copenhagen.<br>
+Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.
+Founder of [Omnihost](https://dev.omnihost.app), a hotel management system.
+Developer at [Penneo A/S](https://penneo.com/), a digital signature Saas company based in Copenhagen.
 
-📫 Wondering how to reach me?<br>
-Discord: Teodor25#6516<br>
-Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)<br>
+📫 Wondering how to reach me?
+Discord: Teodor25#6516
+Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)
 Phone: [+45 26192327](tel:+4526192327)
 
 ## Want to check out my projects? I suggest looking at these:
