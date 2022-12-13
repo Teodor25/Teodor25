@@ -4,14 +4,14 @@
 
 Bachelor in Software development, mainly focussed on frontend, currently based in Denmark.
 
-Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.
-Founder of [Omnihost](https://dev.omnihost.app), a hotel management system.
-Developer at [Penneo A/S](https://penneo.com/), a digital signature Saas company based in Copenhagen.
+Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.<br>
+Founder of [Omnihost](https://dev.omnihost.app), a hotel management system.<br>
+Developer at [Penneo A/S](https://penneo.com/), a digital signature Saas company based in Copenhagen.<br>
 
-📫 Wondering how to reach me?
-Discord: Teodor25#6516
-Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)
-Phone: [+45 26192327](tel:+4526192327)
+📫 Wondering how to reach me?<br>
+Discord: Teodor25#6516<br>
+Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)<br>
+Phone: [+45 26192327](tel:+4526192327)<br>
 
 ## Want to check out my projects? I suggest looking at these:
 - [HMS (Hotel management system) prototype for D'angleterre](https://github.com/Frederik-Vagner/hems)
