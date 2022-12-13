@@ -1,4 +1,4 @@
-<code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" style="height: 100px" /></code>
+<code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" style="height: 250px" /></code>
 
 I'm a Fullstack developer with a Bachelor in Software development, currently based in Denmark.
 
