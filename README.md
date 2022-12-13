@@ -1,10 +1,15 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
-  
-I'm a Fullstack developer and a Computer Science student, currently based in Denmark.
+<code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" /></code>
 
-📫 Wondering how to reach me? <br>
+I'm a Fullstack developer with a Bachelor in Software development, currently based in Denmark.
+
+Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.<br>
+Founder of [Omnihost](https://dev.omnihost.app), a hotel management system.<br>
+Developer at [Penneo A/S](https://penneo.com/), an online signature Saas company based in Copenhagen.<br>
+
+📫 Wondering how to reach me?<br>
 Discord: Teodor25#6516<br>
-Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)
+Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)<br>
+Phone: [+45 26192327](tel:+4526192327)
 
 ## Want to check out my projects? I suggest looking at these:
 - [HMS (Hotel management system) prototype for D'angleterre](https://github.com/Frederik-Vagner/hems)
