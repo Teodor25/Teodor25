@@ -1,4 +1,4 @@
-<h1> Reaching new hights </h1>
+<h1> Reaching new hights as an entrepreneur and </h1>
 
 <code><img src="https://images.prismic.io/superpupertest/b0b09cc5-b0ec-44d0-81e0-a7fc7196bde7_fullstack.webp?q=50&auto=format&w=983&h=534" style="height: 350px"></code>
 
