@@ -43,3 +43,15 @@ Phone: [+45 26192327](tel:+4526192327)<br>
     <img style="width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor25&layout=compact&theme=radical&langs_count=8&hide_border=true" />
   </a>
 </div>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Teodor25&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Teodor25&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
