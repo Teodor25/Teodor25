@@ -33,20 +33,4 @@ Phone: [+45 26192327](tel:+4526192327)<br>
 - [A user management system with a api in java spring and a frontend in react - 3rd semester exam](https://github.com/Teodor25/3rd_semester_24h_exam)
 - [A Web App made in Java Springboot - developed with 3 others on 2nd semester](https://github.com/Kwandes/motorhome)
 
-----
 
-<div style="width: 100%; vertical-alignment: top;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 58%;" src="https://github-readme-stats.vercel.app/api?username=Teodor25&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=My%20github%20stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodor25&layout=compact&theme=radical&langs_count=8&hide_border=true" />
-  </a>
-</div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teodor25&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teodor25&repo=convoychat" />
-</a>
