@@ -15,6 +15,7 @@ Bachelor in Software development, mainly focussed on frontend, currently based i
 Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.<br>
 Founder of [Omnihost.app](https://omnihost.app), a hotel management system.<br>
 Developer at [Penneo A/S](https://penneo.com/), a digital signature Saas company based in Copenhagen.<br>
+Working full time on [Omnihost V2](https://omnihost.app), an optimized hotel management system.<br>
 
 📫 **Wondering how to reach me?**<br>
 Discord: Teodor25#6516<br>
