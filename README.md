@@ -13,7 +13,7 @@
 Bachelor in Software development, mainly focussed on frontend, currently based in Denmark.
 
 Founder of [Treecreate.dk](https://treecreate.dk), a custom built webshop.<br>
-Founder of [Omnihost.app](https://dev.omnihost.app), a hotel management system.<br>
+Founder of [Omnihost.app](https://omnihost.app), a hotel management system.<br>
 Developer at [Penneo A/S](https://penneo.com/), a digital signature Saas company based in Copenhagen.<br>
 
 📫 **Wondering how to reach me?**<br>
@@ -22,8 +22,12 @@ Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)<br>
 Phone: [+45 26192327](tel:+4526192327)<br>
 
 ## Want to check out my projects? I suggest looking at these:
+- [Omnihost Hotel Management System - if you want to try out the system] (test.marriott.omnihost.app)
+  - username: user@example.com
+  - password: abcDEF123
 - [HMS (Hotel management system) prototype for D'angleterre](https://github.com/Frederik-Vagner/hems)
-  - [Figma prototype that I made](https://www.figma.com/file/ORG7b1bjvNsPuL521Ew0Dp/HEMS-V1?node-id=66%3A3892&t=dhsnall36PZyWfEX-0)
+  - [Figma prototype V2 - Designed by me](https://www.figma.com/proto/VumalAuiqFwLwohSrZmhgr?node-id=0-1&t=m46rP8LFdYevKBkz-6)
+  - [Figma prototype V1 - Designed by me](https://www.figma.com/file/ORG7b1bjvNsPuL521Ew0Dp/HEMS-V1?node-id=66%3A3892&t=dhsnall36PZyWfEX-0)
 - [CRM (customer relationship management) system for Treecreate](https://www.figma.com/file/79qPS3XvFUD7SE7LDthpz9/tc-admin-page?node-id=0%3A1)
   - hosted: [admin.treecreate.dk](https://admin.treecreate.dk/login)
   - Since it's only for employees you can only have a look at the design in figma. 
