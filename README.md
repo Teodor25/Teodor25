@@ -22,7 +22,7 @@ Email: [Teodor_Jonasson@hotmail.com](mailto:teodor_jonasson@hotmail.com)<br>
 Phone: [+45 26192327](tel:+4526192327)<br>
 
 ## Want to check out my projects? I suggest looking at these:
-- [Omnihost Hotel Management System - if you want to try out the system] (test.marriott.omnihost.app)
+- [Omnihost Hotel Management System - if you want to try out the system](test.marriott.omnihost.app)
   - username: user@example.com
   - password: abcDEF123
 - [HMS (Hotel management system) prototype for D'angleterre](https://github.com/Frederik-Vagner/hems)
